@@ -1,4 +1,4 @@
-# Hi, saya Mohd Aqif Idham 👋
+# Hi, saya Mohamad Aqif Idham 👋
 
 ### 👨‍💻 Berkenaan Saya
 Saya baru mula belajar dalam dunia pengaturcaraan (*programming*) dan pengurusan kod menggunakan Git & GitHub. 
