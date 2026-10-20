@@ -1,15 +1,15 @@
-
-![Uploading image.png…]()
-
-# Hi, saya Mohamad Aqif Idham 👋
+<div align="center">
+  <img src="profile.jpg" alt="Mohd Aqif Idham" width="180" style="border-radius: 50%;">
+  <h1>Hi, saya Mohd Aqif Idham 👋</h1>
+</div>
 
 ### 👨‍💻 Berkenaan Saya
 Saya baru mula belajar dalam dunia pengaturcaraan (*programming*) dan pengurusan kod menggunakan Git & GitHub. 
 
-- 🔭 **Saya sedang mempelajari:** HTML, CSS, JavaScript / Python (Tukar mengikut apa yang anda belajar)
+- 🔭 **Saya sedang mempelajari:** HTML, CSS, JavaScript / Python
 - 🎯 **Matlamat saya:** Menjadi seorang pembangun perisian (*developer*) yang mahir
 - 💬 **Tanya saya tentang:** Asas-asas yang baru saya pelajari!
-- 📫 **Cara hubungi saya:** [mohamadaqifidham@graduate.utm.my](aqifroslan087@gmail.com)
+- 📫 **Cara hubungi saya:** [email.anda@gmail.com](mailto:email.anda@gmail.com)
 
 ---
 
