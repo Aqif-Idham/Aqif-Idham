@@ -6,7 +6,7 @@ Saya baru mula belajar dalam dunia pengaturcaraan (*programming*) dan pengurusan
 - 🔭 **Saya sedang mempelajari:** HTML, CSS, JavaScript / Python (Tukar mengikut apa yang anda belajar)
 - 🎯 **Matlamat saya:** Menjadi seorang pembangun perisian (*developer*) yang mahir
 - 💬 **Tanya saya tentang:** Asas-asas yang baru saya pelajari!
-- 📫 **Cara hubungi saya:** [email.anda@gmail.com](aqifroslan087@gmail.com)
+- 📫 **Cara hubungi saya:** [mohamadaqifidham@graduate.utm.my](aqifroslan087@gmail.com)
 
 ---
 
